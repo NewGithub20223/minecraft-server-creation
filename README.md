@@ -1,5 +1,6 @@
 # Minecraft Server Creation
 
+**made by somerandom_boi (lag)**
 **Making minecraft servers faster and easier**
 **easy to use, faster, no lag, 10 second finish**
 
