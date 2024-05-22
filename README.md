@@ -14,3 +14,4 @@ how to use:
 5. to run the server go to the "server" and run StartServer.bat
 
 **Scanned with ESET and AVAST it is safe to use**
+(Go to branches/pull requests tab for latest version the files above are the 1st version and may have most bugs)
