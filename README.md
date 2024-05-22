@@ -16,4 +16,5 @@ how to use:
 5. to run the server go to the "server" and run StartServer.bat
 
 **Scanned with ESET and AVAST it is safe to use**
+![image](https://github.com/NewGithub20223/minecraft-server-creation/assets/121712055/eaacf893-ef85-4d52-8dc7-f23e62493909)
 
